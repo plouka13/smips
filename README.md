@@ -1,6 +1,3 @@
-### COMP1521 20T2: ass2: smips ###
+### smips
 
-Do not push changes to this repository directly.
-Do not change the repository via the web interface.
-
-Submit your work using usage: give class assignment [files...], and it will be automatically pushed to this repository.
+For a subset of MIPS instructions in C language. Using a reference implementation, I converted 32-bit instructions into their corresponding MIPS instruction, followed by the output produced after executing said instructions, followed by register values. Gained experience with bit operations and low level programming giving me a better understanding of CPU implementation.
